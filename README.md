@@ -274,6 +274,8 @@
 
 **钱主要花在哪**：不是软件本身，是**接口**和**实施**。一套 5 万的软件，接口加实施做到 12 万很正常。谈价时盯住这两项，比砍软件价有用。
 
+> 这张表只回答「大概多少」，不回答「为什么这家贵三倍」。报价的构成逻辑、以及怎么把自己的范围写成可以横向比的分项清单，见 [LIS 系统多少钱：一张报价单里，你到底在为什么付钱](docs/lis-xitong-duoshaoqian-baojia-chaijie.md)。
+
 ---
 
 ## 十三、常见问题
@@ -325,6 +327,9 @@
 **选型与评估**
 - [LIS、HIS、LIMS 有什么区别](docs/lis-his-lims-quxbie.md)
 - [LIS 选型评分表（可打印）](docs/xuanxing-dafen-biao.md)
+
+**价格与预算**
+- [LIS 系统多少钱：一张报价单里，你到底在为什么付钱](docs/lis-xitong-duoshaoqian-baojia-chaijie.md)
 
 **合规与评审**
 - [ISO 15189 系统自查清单（17 项）](docs/iso15189-zicha-qingdan.md)
