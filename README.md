@@ -211,6 +211,7 @@
 - 权限分级，谁能改什么说得清。
 
 > 17 项自查清单（可打印）：[ISO 15189 系统自查清单](docs/iso15189-zicha-qingdan.md)
+> 系统故障时标本怎么继续走、评审要翻的六张记录：[检验科信息系统应急预案怎么写](docs/jianyan-xinxi-xitong-yingji-yuan.md)
 
 ### 10.2 电子病历应用水平分级 4 级
 
@@ -333,6 +334,7 @@
 
 **合规与评审**
 - [ISO 15189 系统自查清单（17 项）](docs/iso15189-zicha-qingdan.md)
+- [检验科信息系统应急预案：评审要的不是文件，是六张记录](docs/jianyan-xinxi-xitong-yingji-yuan.md)
 - [电子病历 4 级 检验相关实证项对照](docs/dianzibingli-4ji-jianyan-duizhao.md)
 
 **合作**
