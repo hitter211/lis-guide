@@ -188,6 +188,7 @@
 | **4. 退出机制** | "如果我们以后换系统，数据怎么给我们？" | 合同里有数据导出条款，格式说得清 |
 
 > 完整打分表（可直接打印带进评标会）：[LIS 选型评分表](docs/xuanxing-dafen-biao.md)
+> 民营医院选 LIS 和公立医院不是一套逻辑：没有信息科、HIS 不在自己手里、老板要算回报。对比方法见 [民营医院 LIS 系统哪家好：别看品牌排名，先比这 6 张表](docs/minying-yiyuan-lis-najiha-duibi.md)。
 
 ---
 
@@ -328,6 +329,7 @@
 **选型与评估**
 - [LIS、HIS、LIMS 有什么区别](docs/lis-his-lims-quxbie.md)
 - [LIS 选型评分表（可打印）](docs/xuanxing-dafen-biao.md)
+- [民营医院 LIS 系统哪家好：别看品牌排名，先比这 6 张表](docs/minying-yiyuan-lis-najiha-duibi.md)
 
 **价格与预算**
 - [LIS 系统多少钱：一张报价单里，你到底在为什么付钱](docs/lis-xitong-duoshaoqian-baojia-chaijie.md)
